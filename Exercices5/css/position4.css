@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    position: absolute;
+}
+
+div {
+    border: 1px solid black;
+}
+
+#Div1 {
+    position: absolute;
+    margin-top: 325px;
+    width: 1470px;
+    height: 132px;
+    margin-left: 27px;
+    margin-right: 20px;
+    background-color: green;
+}
+
+#Div2 {
+    margin-top: 20px;
+    margin-left: 27px;
+    width: 697px;
+    height: 284px;
+    background-color: red;
+    display: inline-block;
+    position: relative;
+}
+
+#Div3 {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+    width: 717px;
+    height: 284px;
+    background-color: yellow;
+    display: inline-block;
+}

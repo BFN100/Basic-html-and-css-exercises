@@ -1,0 +1,27 @@
+body {
+    text-align: left;
+}
+
+div {
+    background-color: rgb(221, 210, 210);
+    display: inline-block;
+    width: 464px;
+}
+
+h3 {
+    display: inline;
+    background-color: black;
+    color: white;
+}
+
+p {
+    width: 230px;
+    position: relative;
+}
+
+img {
+    float: right;
+    position: absolute;
+    margin-top: -110px;
+    margin-left: 112px;
+}

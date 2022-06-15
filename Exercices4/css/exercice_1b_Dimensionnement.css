@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+
+/* Pour que ce soit le même que l'image envoyée dans le pdf, nous ne pouvons pas y insérer les deux rembourrages dans la div, de cette façon, il reste le premier
+et deuxième paragraphes à distance de la marge et le dernier collé à gauche... */
+
+div {
+    width: 80%;
+    background-color: #eee;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+p {
+    width: 75%;
+    background-color: #BBB;
+}
+
+
+/* Pour être identique à l'image, la couleur de "h1" doit être blanche */
+
+h1 {
+    width: 80%;
+    height: 50px;
+    background-color: #888;
+    color: rgb(243, 240, 240);
+}

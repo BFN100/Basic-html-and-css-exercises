@@ -1,0 +1,30 @@
+.paragraph {
+    background-color: #eee;
+    margin: 15px;
+    text-align: justify;
+}
+
+.horloge1 {
+    float: left;
+    margin: 20px;
+    width: 134px;
+    height: 123px;
+}
+
+.horloge2 {
+    float: left;
+    margin: 20px;
+    width: 113px;
+    height: 123px;
+}
+
+.horloge3 {
+    float: right;
+    margin: 20px;
+    width: 151px;
+    height: 142px;
+}
+
+p {
+    background-color: #DD2;
+}

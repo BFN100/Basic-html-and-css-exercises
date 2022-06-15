@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+div {
+    width: 80%;
+    height: 500px;
+    background-color: #eee;
+}
+
+p {
+    width: 75%;
+    height: 200px;
+    background-color: #BBB;
+}
+
+
+/* Pour être identique à l'image, la couleur de "h1" doit être blanche */
+
+h1 {
+    width: 80%;
+    height: 50px;
+    background-color: #888;
+    color: rgb(247, 245, 245);
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <script type="text/javascript" src="js/script_2.js"></script>
+    <title>Exercice 2</title>
+</head>
+
+<body>
+
+    <form name="formCalculMontantTotal">
+        <fieldset>
+            <legend> Identification personelle </legend>
+            <p>
+                <label for="prix"> Prix du Produit </label>
+                <input type="text" name="txtPrix" size="10" />
+            </p>
+            <p>
+                <label for="quantite"> Quantite </label>
+                <input type="text" name="txtQuantite" size="10" />
+            </p>
+            <p>
+                <label for="total avant taxes"> Montant total avant taxes </label>
+                <input type="text" name="txtTotalAvantTaxes" size="10" disabled="disabled" />
+            </p>
+            <p>
+                <label for="TPS"> Total TPS </label>
+                <input type="text" name="txtTotalTPS" size="10" disabled="disabled" />
+            </p>
+            <p>
+                <label for="TVQ"> Total TVQ </label>
+                <input type="text" name="txtTotalTVQ" size="10" disabled="disabled" />
+            </p>
+            <p>
+                <label for="total apres taxes"> Total apres taxes </label>
+                <input type="text" name="txtApresTaxes" size="10" disabled="disabled" />
+            </p>
+        </fieldset>
+        </br>
+        </br>
+        <input type="button" value="Envoyer" onclick="javascript:valider();" />
+    </form>
+
+</body>
+
+</html>

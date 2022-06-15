@@ -1,0 +1,22 @@
+.paragraph {
+    background-color: #eee;
+    margin: 15px;
+    text-align: justify;
+}
+
+.horloge {
+    float: left;
+    margin: 20px;
+    width: 134px;
+    height: 123px;
+}
+
+.droit {
+    float: right;
+    border: 2px solid red;
+    width: 229px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+}

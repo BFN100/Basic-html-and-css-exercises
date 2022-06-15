@@ -1,0 +1,49 @@
+body {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-top: 5px;
+}
+
+div#menu {
+    position: absolute;
+    width: 100%;
+    height: 110px;
+    left: 0px;
+    top: 0;
+    background-color: rgb(255, 102, 5);
+    color: white;
+}
+
+div#corps {
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 110px;
+    color: black;
+}
+
+li {
+    display: inline;
+    border: solid 1px white;
+    padding: 0 10px 0 10px;
+}
+
+img {
+    float: right;
+    width: 170px;
+    height: 170px;
+    margin-top: 29px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+p,
+h1 {
+    margin: 4px;
+}

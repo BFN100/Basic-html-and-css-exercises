@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    position: absolute;
+    display: block;
+}
+
+div {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid black;
+}
+
+#Div1 {
+    margin-top: 5px;
+    background-color: green;
+}
+
+#Div2 {
+    background-color: red;
+}
+
+#Div3 {
+    background-color: yellow;
+}

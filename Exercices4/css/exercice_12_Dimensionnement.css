@@ -1,0 +1,30 @@
+p,
+div {
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
+    column-count: 3;
+    -moz-coloumn-gap: 40px;
+    -webkit-column-gap: 40px;
+    column-gap: 40px;
+    column-rule-color: #3366FF;
+    column-rule-style: double;
+    column-rule-width: 10px;
+    -moz-column-rule: 10px double #3366FF;
+    -webkit-column-rule: 10px double #3366FF;
+    column-rule: 10px double #3366FF;
+    text-align: justify;
+    background-color: #EEE;
+}
+
+img {
+    width: 220px;
+    height: 220px;
+}
+
+.flotte {
+    display: block;
+    float: right;
+    padding: 1em;
+    width: 158px;
+    height: 157px;
+}
