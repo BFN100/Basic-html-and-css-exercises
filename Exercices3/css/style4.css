@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.img-fonde {
+    background-image: url("../img/fond1.JPG");
+    background-repeat: repeat-x;
+}
+
+.fonde {
+    padding-top: 18px;
+    margin-bottom: 5px;
+}
+
+.orange {
+    background-image: url("../img/fond_orange.jpg");
+    position: relative;
+    height: 39px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.jaune {
+    background-color: yellow;
+    height: 25px;
+    width: 1687px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+h2 {
+    position: absolute;
+    margin-top: -3px;
+}

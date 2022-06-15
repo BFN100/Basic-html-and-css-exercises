@@ -1,0 +1,28 @@
+body {
+    background-image: url("../img/fond1.JPG");
+    background-color: blue;
+}
+
+p {
+    background-color: yellow;
+    margin-top: -7px;
+}
+
+h1 {
+    background-image: url("../img/fond2.jpg");
+}
+
+.cadre {
+    background-image: url("../img/cadre_bleu_blanc.JPG");
+    margin-top: -45px;
+}
+
+i {
+    background-color: orange;
+}
+
+.herit {
+    color: red;
+    background-image: inherit;
+    background-size: 35px;
+}

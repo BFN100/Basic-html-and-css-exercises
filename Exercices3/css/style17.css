@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    margin-left: 316px;
+}
+
+h2 {
+    margin-left: 181px;
+}
+
+.gris {
+    background-color: rgb(197, 197, 197);
+}
+
+.tres-gris {
+    background-color: rgb(154, 156, 158);
+}
+
+.gris-clair {
+    display: inline-block;
+    background-color: rgb(216, 220, 221);
+    padding-bottom: 53px;
+    width: -webkit-fill-available;
+}
+
+.ligne1 {
+    margin-left: 248px;
+}
+
+.ligne2 {
+    display: inline;
+}
+
+.html {
+    margin-left: 111px;
+    display: inline;
+}
+
+.gris-plus {
+    background-color: rgb(192, 194, 196);
+    position: absolute;
+    display: inline;
+}
+
+.list {
+    background-color: rgb(206, 197, 255);
+}
+
+.list-elements {
+    margin-left: 197px;
+}

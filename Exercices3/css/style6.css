@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    border-top: solid black;
+    position: relative;
+    width: 421px;
+}
+
+p {
+    display: inline-block;
+}
+
+.gris {
+    background-color: rgb(197, 194, 194);
+}
+
+.bleu-clair {
+    background-color: rgb(207, 250, 243);
+}
+
+.bleu {
+    background-color: rgb(186, 182, 250);
+}
+
+.rouge {
+    color: red;
+    display: inline;
+    margin-left: 6px;
+}
+
+.noir {
+    display: inline-block;
+    background-color: black;
+    color: white;
+}

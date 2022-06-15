@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url("../img/fond1.JPG");
+    background-repeat: repeat-y;
+    margin-left: 10px;
+}
+
+.jaune_bkg {
+    background-color: yellow;
+}
+
+.fonde {
+    margin-top: 15px;
+}
+
+.orange {
+    background-color: orange;
+    display: inline;
+}
+
+.jaune {
+    display: inline-flex;
+    margin-left: -4px;
+}

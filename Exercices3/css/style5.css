@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.titre {
+    margin-right: 12px;
+}
+
+.gris {
+    position: relative;
+    background-color: rgb(187, 184, 184);
+    display: flex;
+    padding: 14px;
+    margin-left: -16px;
+}
+
+.jaune-petit {
+    background-color: yellow;
+    display: inline-block;
+}
+
+.jaune {
+    background-color: yellow;
+    display: inline-block;
+}
+
+.gris-petit {
+    background-color: rgb(187, 184, 184);
+    height: 13px;
+}
+
+.texte-gris-petit {
+    position: relative;
+    top: -7px;
+}
+
+.gris-clair {
+    background-color: rgb(236, 234, 234);
+}
